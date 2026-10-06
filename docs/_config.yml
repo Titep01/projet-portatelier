@@ -1,10 +1,10 @@
-title: Doc Projet # À MODIFIER : le nom de votre projet
-description: Documentation du projet # À MODIFIER : une phrase qui résume votre projet
+title: Projet Portatelier
+description: Documentation du projet
 
 # À MODIFIER : l'adresse de VOTRE repo GitHub (sans "/" à la fin).
 # Elle sert aux boutons et liens vers vos fichiers sources, et au lien
 # "Modifier cette page sur GitHub" en bas de chaque page.
-gh_edit_repository: "https://github.com/Makerspace-Amiens/template-project"
+gh_edit_repository: "https://titep01.github.io/projet-portatelier/"
 
 # NE RIEN MODIFIER CI-DESSOUS SI VOUS N'ETES PAS CERTAINS DE CE QUE VOUS FAITES
 
@@ -39,8 +39,8 @@ callouts:
   a_supprimer:
     title: À supprimer
     color: red
-  note:
-    title: Note
+  info:
+    title: Information
     color: blue
   warning:
     title: Attention

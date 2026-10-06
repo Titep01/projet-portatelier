@@ -1,4 +1,4 @@
----
+//---
 layout: default
 title: "AAAA-MM-JJ : sujet de la séance"
 parent: Prénom Nom
