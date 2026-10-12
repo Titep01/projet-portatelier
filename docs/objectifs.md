@@ -6,20 +6,16 @@ title: Objectifs du projet
 
 # Objectifs du projet
 
-{: .a_supprimer }
-> Cette page pose le besoin **avant** toute solution technique : on y dit *quoi*
-> faire, pas *comment*. Répondez aux questions de chaque section, puis supprimez-les.
-> Voir [Définir son besoin et son cahier des charges](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/concepts/definir-son-besoin/).
+Le projet portatelier vise à créer un système modulaire, fiable et facile à réaliser afin d'avoir un espace de rangement lors de réalisation techniques en dehors d'un atelier standart.
+Dans le cadre de la coupe de France de robotique, le portatelier devra pouvoir contenir tout les robots dont nous aurons besoin, des outils et de la visserie, des batterie et du matériel électronique.
 
 ## Contexte
 
-{: .a_modifier }
-> D'où vient le projet ? Qui l'a demandé ? Dans quel cadre (cours, concours, commande) ?
+Dans le cadre de la coupe de France de robotique, le portatelier sera notre solution pour pouvoir contenir et détout les robots dont nous aurons besoin, des outils et de la visserie, des batterie et du matériel électronique.
 
 ## Problème et public cible
 
-{: .a_modifier }
-> Quel problème cherchez-vous à résoudre ? Pour qui ? Dans quelles conditions d'utilisation ?
+La place étant limitée dans les stands de la CDR, et le 
 
 ## Cahier des charges
 

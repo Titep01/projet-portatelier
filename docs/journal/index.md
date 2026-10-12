@@ -9,5 +9,4 @@ has_children: true
 
 {: .info }
 > Ce journal de bord vise à consigner l'évolution du projet portatelier. 
-> Tout les logs n'aurons pas le même intérêt, vous trouverez donc leur ordre d'intérêt de 1 (période clée) à 3 (Scéance sans grande avancée ou modification mineure).
-
+> Tout les logs n'aurons pas le même intérêt, vous trouverez donc leur indice d'intérêt de 1 (période clée) à 3 (Scéance sans grande avancée > ou modification mineure).

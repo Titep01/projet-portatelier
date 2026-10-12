@@ -5,25 +5,13 @@ title: Accueil
 permalink: /
 ---
 
-<!-->
-> Les guides pour prendre en main ce template sont sur le
-> [site de documentation du MakerSpace](https://doc.makerspace-amiens.fr/workshops/methodologie-de-projet/).
--->
+# Projet protatelier
 
-# Nom du projet
+Ce projet vise à créer un système modulaire afin de transporter tout le matériel nécessaire à un projet extérieur.
+Initialement prévue dans le cadre de la coupe de France de robotique  (CDR 2027) organisée par Planet Science et Eurobot. Le but à terme sera de présenter un version open-source avec les modules de base, les instructions de création, ainsi que la documentation sur ce site.
 
-{: .a_modifier }
-> Remplacez le titre ci-dessus et le texte ci-dessous par une présentation de votre projet.
-
-Décrivez ici en quelques lignes l'objectif de votre projet. Quel est son but ?
-À qui est-il destiné ? Quel problème cherche-t-il à résoudre ?
-
-[Repo GitHub]({{ https://github.com/Titep01/projet-portatelier }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Repo GitHub](https://github.com/Titep01/projet-portatelier){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Projet Onshape](https://cad.onshape.com/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
-
-{: .a_modifier }
-> Remplacez le lien du bouton « Onshape » par le lien de partage de votre document.
-> Le bouton « repo GitHub » utilise l'adresse renseignée dans `docs/_config.yml`.
 
 ## Le projet en 3D
 
