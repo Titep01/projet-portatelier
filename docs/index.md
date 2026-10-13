@@ -7,15 +7,15 @@ permalink: /
 
 # Projet protatelier
 
-Ce projet vise à créer un système modulaire afin de transporter tout le matériel nécessaire à un projet extérieur.
+Le projet portatelier (fusion des mots "portable" et "atelier") est un projet visant à créer un système modulaire permattent de transporter toute une gamme de matériel (vis, outils, composants électroniques, petits systèmes automatisés...) et d'avoir un poste de travail mobile quelque soit le lieux.
 Initialement prévue dans le cadre de la coupe de France de robotique  (CDR 2027) organisée par Planet Science et Eurobot. Le but à terme sera de présenter un version open-source avec les modules de base, les instructions de création, ainsi que la documentation sur ce site.
 
 [Repo GitHub](https://github.com/Titep01/projet-portatelier){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Projet Onshape](https://cad.onshape.com/){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+[Projet Onshape](https://cad.onshape.com/documents/34dd20c1cfd58743c4a0da74/w/f8efac64ac7df2a1cb1f370a/e/db08fe92c618a59c80a82d06?renderMode=0&uiState=6ace1ce01fc4ff5a06d42ebb){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
 
 ## Le projet en 3D
 
-{% include model3d.html src="assets/models/Otto.glb" alt="Placeholder modèle 3D" %}
+{% include model3d.html src="assets/models/Assemblage male-femelle.glb" alt="Placeholder modèle 3D" %}
 
 <!--
 > Exportez votre assemblage au format **GLB** (glTF binaire) depuis Onshape

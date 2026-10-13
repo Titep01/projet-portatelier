@@ -15,19 +15,14 @@ Dans le cadre de la coupe de France de robotique, le portatelier sera notre solu
 
 ## Problème et public cible
 
-La place étant limitée dans les stands de la CDR, et le 
+La place étant limitée dans les stands de la CDR, et le matériel se dispersant rapidement, surtout vu le nombre de personnes présentes sur le stand, il devenait de plus en plus important d'avoir une zone de stockage portable pour ne rien perdre.
 
 ## Cahier des charges
 
-{: .a_modifier }
-> Listez les fonctions attendues avec des critères **mesurables** :
+{: .info }
 > **FP** pour une fonction principale (ce que le projet doit faire),
 > **FC** pour une fonction contrainte (ce à quoi il doit s'adapter).
 > Flexibilité : de F0 (impératif) à F3 (négociable). Exemple :
 
 | Fonction | Critère | Niveau attendu | Flexibilité |
 |---|---|---|---|
-| FP1 : trier les déchets | Taux de tri correct | ≥ 80 % sur 20 essais | F1 |
-| FP2 : informer le visiteur | Lisibilité du panneau | Lisible à 2 m | F2 |
-| FC1 : s'alimenter | Autonomie sur batterie | ≥ 4 h | F0 |
-| FC2 : s'intégrer au tapis | Largeur | ≤ 1 m | F0 |
