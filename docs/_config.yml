@@ -45,3 +45,6 @@ callouts:
   warning:
     title: Attention
     color: red
+  important:
+    title: Important
+    color: yellow

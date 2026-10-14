@@ -26,3 +26,5 @@ La place étant limitée dans les stands de la CDR, et le matériel se dispersan
 
 | Fonction | Critère | Niveau attendu | Flexibilité |
 |---|---|---|---|
+| FP : Transport des charges | facile à déplacer jusqu'à x kg | x > 25kg | F2 (5kg)|
+| FP : Modulable | Peut être désasemblé en "boites" et réassemblé facilement | < 5 min pour changer de boites | F1 |
